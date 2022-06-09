@@ -3,7 +3,7 @@ class Httpd < Formula
   homepage "https://httpd.apache.org/"
   url "https://dlcdn.apache.org/httpd/httpd-2.4.54.tar.bz2"
   mirror "https://downloads.apache.org/httpd/httpd-2.4.54.tar.bz2"
-  sha256 "d0bbd1121a57b5f2a6ff92d7b96f8050c5a45d3f14db118f64979d525858db63"
+  sha256 "eb397feeefccaf254f8d45de3768d9d68e8e73851c49afd5b7176d1ecf80c340"
   license "Apache-2.0"
   revision 2
 
